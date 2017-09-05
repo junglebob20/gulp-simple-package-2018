@@ -1,7 +1,7 @@
 {
-  "name": "portfolio-two",
+  "name": "frontend-project-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "clone the repo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,14 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/shovanch/portfolio-two.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Shovan Chatterjee chatterjeedeb63@gmail.com",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/shovanch/portfolio-two/issues"
   },
   "homepage": "https://github.com/shovanch/portfolio-two#readme",
   "devDependencies": {
     "browser-sync": "^2.18.12",
+    "eslint": "^4.6.1",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-sass": "^3.1.0",
