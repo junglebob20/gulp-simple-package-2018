@@ -2,26 +2,40 @@
 
 ### Lightweight project template to quickly start developing front-end sites.
 
-[![SCSS](resources/img/scss-logo.png)](https://facebook.github.io/react/)
-[![Gulp](resources/img/gulp-logo.png)](https://facebook.github.io/react/)
-[![ESLint](resources/img/eslint-logo.png)](https://facebook.github.io/react/)
+[![SCSS](resources/img/scss-logo.png)](sass-lang.com/)
+[![Gulp](resources/img/gulp-logo.png)](https://gulpjs.com/)
+[![ESlint](resources/img/eslint-logo.png)](https://eslint.org/)
 
 #### How to use
-clone the repo into project folder
+Install
+- [Node](https://nodejs.org/en/)
+- [npm]() - Gets instaleed with Node
+- [gulp](http://gulpjs.com/)
 
+clone the repo  [ Use your project name in `<project-name>` placeholder ]
 ```
-git clone https://github.com/shovanch/frontend-project-template.git
+git clone https://github.com/shovanch/frontend-project-template.git <project-name>
+```
+Initialize npm on `<project-name>` directory
+```
+cd <project-name>
+npm init
 ```
 Install the npm packages
-
 ```
 npm install
 ```
-Start the gulp tasks
+Start running the gulp tasks
 ```
 gulp watch
 ```
 Start Coding!!!
+
+### Includes
+* Normalize.css
+* JQuery
+* gulpfile.js with Gulp presets
+* ESlint
 
 ### Included Gulp packages
 * [gulp-sass](https://www.npmjs.com/package/gulp-sass) - To compile SCSS to CSS
