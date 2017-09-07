@@ -23,5 +23,8 @@
     "gulp-autoprefixer": "^4.0.0",
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.6.0"
+  },
+  "dependencies": {
+    "eslint": "^4.6.1"
   }
 }
