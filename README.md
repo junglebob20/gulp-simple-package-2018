@@ -1,4 +1,4 @@
-# Boilerplate for Basic Web Development Projects.
+# Boilerplate for Front-end Projects.
 
 ### Lightweight project template to quickly start developing front-end sites.
 
@@ -6,13 +6,16 @@
 [![Gulp](resources/img/gulp-logo.png)](https://gulpjs.com/)
 [![ESlint](resources/img/eslint-logo.png)](https://eslint.org/)
 
-#### How to use
-Install
+## How to use
+
+### Requirements
 - [Node](https://nodejs.org/en/)
 - [npm]() - Gets instaleed with Node
 - [gulp](http://gulpjs.com/)
 
-clone the repo  [ Use your project name in `<project-name>` placeholder ]
+### Setting up the project
+
+Clone the repo  [ Use your project name in `<project-name>` placeholder ]
 ```
 git clone https://github.com/shovanch/frontend-project-template.git <project-name>
 ```
